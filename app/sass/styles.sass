@@ -1,0 +1,48 @@
+@import vars
+@import fonts
+@import libs
+@import smart-grid
+
+
+::placeholder
+	color: #666
+
+::selection
+	background-color: $accent
+	color: #fff
+
+input, textarea
+	outline: none
+	&:focus:required:invalid
+		border-color: red
+	&:required:valid
+		border-color: green
+
+body
+	font-size: 16px
+	min-width: 320px
+	position: relative
+	line-height: 1.65
+	font-family: $default-font, sans-serif
+	font-weight: 400
+	overflow-x: hidden
+	color: $text
+	display: none
+
+img
+	width: 100%
+	max-width: 100%
+	height: auto
+
+a
+	color: $text
+	text-decoration: none
+
+.start-span
+	color: $accent
+
+.end-span
+	color: $accent2
+
+.active 
+	color: $accent2 !important
