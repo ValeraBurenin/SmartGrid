@@ -47,8 +47,10 @@ gulp.task('styles', function() {
 gulp.task('scripts', function() {
 	return gulp.src([
 		'node_modules/jquery/dist/jquery.min.js', // Optional jQuery plug-in (npm i --save-dev jquery)
-		'app/js/_lazy.js', // JS library plug-in example
-		'app/js/_custom.js', // Custom scripts. Always at the end
+		'assets/js/_lazy.js', // JS library plug-in example
+		'assets/libs/owl.carousel/owl.carousel.js', 
+		'assets/libs/fancybox/dist/jquery.fancybox.min.js', 
+		'assets/js/_custom.js' // Custom scripts. Always at the end
 		])
 	.pipe(concat('scripts.min.js'))
 	.pipe(uglify()) // Mifify js (opt.)
