@@ -1,13 +1,8 @@
-<h1>Шаблон для верстки на SmartGrid</h1>
-<p>Всегда использовать этот шаблон при разработки новых web-приложений. Очень удобная система вёрстки.</p>
+п»ї<h1>РЁР°Р±Р»РѕРЅ РґР»СЏ РІРµСЂСЃС‚РєРё РЅР° SmartGrid</h1>
+<p>Р’СЃРµРіРґР° РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ СЌС‚РѕС‚ С€Р°Р±Р»РѕРЅ РїСЂРё СЂР°Р·СЂР°Р±РѕС‚РєРё РЅРѕРІС‹С… web-РїСЂРёР»РѕР¶РµРЅРёР№. РћС‡РµРЅСЊ СѓРґРѕР±РЅР°СЏ СЃРёСЃС‚РµРјР° РІС‘СЂСЃС‚РєРё.</p>
 
-<p>Также подключены библиотеки Jquery, FancyBox и OwlCarousel</p>
+<p>РўР°РєР¶Рµ РїРѕРґРєР»СЋС‡РµРЅС‹ Р±РёР±Р»РёРѕС‚РµРєРё Jquery, FancyBox Рё OwlCarousel</p>
 
-<p>При необходимости подключить FontAwesomePro в папку fonts и после этого подключить в libs.sass
+<p>РџСЂРё РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё РїРѕРґРєР»СЋС‡РёС‚СЊ FontAwesomePro РІ РїР°РїРєСѓ fonts Рё РїРѕСЃР»Рµ СЌС‚РѕРіРѕ РїРѕРґРєР»СЋС‡РёС‚СЊ РІ libs.sass
 
-<p>
-	<img src="https://raw.githubusercontent.com/agragregra/oh5/master/app/img/_src/preview.jpg" alt="Start HTML Template">
-</p>
-
-<p>Автор: <a href="https://burenin.by" target="_blank">WebHero</a></p>
-
+<p>РђРІС‚РѕСЂ: <a href="https://burenin.by" target="_blank">WebHero</a></p>
